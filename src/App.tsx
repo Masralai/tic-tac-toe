@@ -44,7 +44,7 @@ const App: React.FC = () => {
   console.log(state);
 
   return (
-    <div className="p-5">
+    <div className="p-5 ">
       <div className="flex">
         <Block onClick={() => handleBlockClick(0)} value={state[0]} />
         <Block onClick={() => handleBlockClick(1)} value={state[1]} />

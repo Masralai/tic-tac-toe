@@ -22,8 +22,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  justify-content: center; 
+  align-items: center;
 }
 
-.btn-primary {
-  @apply ml-2.5 rounded-xl border-1 border-solid px-2.5 py-5 cursor-pointer;
-}
