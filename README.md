@@ -35,7 +35,6 @@ This is a simple **Tic-Tac-Toe** game built using **React and TypeScript**. The 
 
 ## 🚀 How to Play
 1. Open the game in a browser.
-2. Player **X** goes first, followed by Player **O**.
-3. Click on an empty cell to mark your move.
-4. The game will announce the winner
+2. Click on an empty cell to mark your move.
+3. The game will announce the winner
 
